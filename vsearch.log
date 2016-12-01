@@ -1,0 +1,2 @@
+ImmutableMultiDict([('phrase', 'slerinisdfsfsf'), ('letters', 'aeiou')])|192.168.150.1|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36|{'e', 'i'}
+ImmutableMultiDict([('phrase', 'slerinisdfsfsf'), ('letters', 'aeiou')])|192.168.150.1|Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36|{'e', 'i'}

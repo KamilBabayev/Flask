@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block body %}
+
+<h2>{{ the_title }}</h2>
+
+<p><h1>Welcome to admin page:</h1> </p>
+
+<form method='POST' action='/admin'>
+<table>
+<p>Enter username and password: </p>
+<tr><td>Username:</td><td><input name='username' type='TEXT' width='60'></td></tr>
+<tr><td>Password:</td><td><input name='password' type='TEXT'></td></tr>
+</table>
+<p style="color:blue;margin-left:20px;"><input value='Login' type='SUBMIT'></p>
+</form>
+
+
+<h3> Password you entered is: {{ passresult }}</h3>
+
+{% endblock %}
